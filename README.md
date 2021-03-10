@@ -1,4 +1,4 @@
-# GokuExex
+# GokuExec
 Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 ## Instalacja
 1. Pobierz plik **autoexec.cfg**
@@ -20,4 +20,9 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * Bindy
 * Komendy skrócone 
 
-**Każda użyta komenda posiada krótki opis działania, dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config**
+**Każda użyta komenda posiada krótki opis działania, 
+dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config.**
+## Pobierz
+**Najnowsza wersja:** [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
+**Poprzednie wersje:**
+*

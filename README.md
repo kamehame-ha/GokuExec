@@ -29,5 +29,6 @@ dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config.**
 
 ### Przydatne linki:
 [**Sieć BatCave.pro**](https://batcave.pro)
+
 [**Mój profil Steam**](https://steamcommunity.com/id/kamehame_ha/)
 

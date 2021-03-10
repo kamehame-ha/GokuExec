@@ -24,5 +24,6 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config.**
 ## Pobierz
 **Najnowsza wersja:** [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
+
 **Poprzednie wersje:**
-*
+

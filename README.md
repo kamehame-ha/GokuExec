@@ -23,9 +23,10 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 **Każda użyta komenda posiada krótki opis działania, 
 dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config.**
 ## Pobierz
-**Najnowsza wersja:** [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
+**Najnowsza wersja:** [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
 
 **Poprzednie wersje:**
+* [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
 
 ## Przydatne linki:
 [**Sieć BatCave.pro**](https://batcave.pro)

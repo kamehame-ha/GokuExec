@@ -21,6 +21,8 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * Bindy
 * Komendy skrócone 
 
+**Każda użyta komenda posiada krótki opis działania, 
+dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Bindy:
 * **Jumpthrow**
 * **Czyszczenie krwi**
@@ -29,8 +31,6 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * **Szybie wybranie Flasha**
 * **oraz bindy na wiadomości na czacie**
 
-**Każda użyta komenda posiada krótki opis działania, 
-dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Pobierz
 **Najnowsza wersja:** [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
 

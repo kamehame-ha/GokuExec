@@ -16,6 +16,7 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * Ustawienia Radaru
 * Ustawienia HUD-u
 * Komendy na więcej FPS
+* Serwery Valve
 * Pozostałe komendy
 * Bindy
 * Komendy skrócone 

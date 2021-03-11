@@ -21,7 +21,7 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * Komendy skrócone 
 
 **Każda użyta komenda posiada krótki opis działania, 
-dzięki czemu nawet komleptny żółtodziub z radością stworzy swój config.**
+dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Pobierz
 **Najnowsza wersja:** [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
 

@@ -32,9 +32,10 @@ dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 * **oraz bindy na wiadomości na czacie**
 
 ## Pobierz
-**Najnowsza wersja:** [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
+**Najnowsza wersja:** [**v1.2**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
 
 **Poprzednie wersje:**
+* [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
 * [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
 
 ## Przydatne linki:

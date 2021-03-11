@@ -21,6 +21,14 @@ Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 * Bindy
 * Komendy skrócone 
 
+## Bindy:
+* **Jumpthrow**
+* **Czyszczenie krwi**
+* **Celownik do granatów**
+* **Podgłaśnianie gry podczas chodzenia na shift-cie**
+* **Szybie wybranie Flasha**
+* **oraz bindy na wiadomości na czacie**
+
 **Każda użyta komenda posiada krótki opis działania, 
 dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Pobierz

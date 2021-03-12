@@ -1,5 +1,4 @@
 # GokuExec
-Konfiguracja stoworzona przeze ze mnie na potrzeby sieci serwerów batcave.pro
 ## Instalacja
 1. Pobierz plik **autoexec.cfg**
 1. Otwórz swoją lokalizację cs:go

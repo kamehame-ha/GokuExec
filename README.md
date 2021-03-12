@@ -22,14 +22,6 @@
 
 **Każda użyta komenda posiada krótki opis działania, 
 dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
-## Bindy:
-* **Jumpthrow**
-* **Czyszczenie krwi**
-* **Celownik do granatów**
-* **Podgłaśnianie gry podczas chodzenia na shift-cie**
-* **Szybie wybranie Flasha**
-* **oraz bindy na wiadomości na czacie**
-
 ## Pobierz
 **Najnowsza wersja:** [**v1.2**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
 

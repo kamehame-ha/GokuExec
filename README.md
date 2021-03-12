@@ -26,11 +26,12 @@ dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 **Najnowsza wersja:** [**v1.2**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
 
 **Poprzednie wersje:**
+* [**v1.3**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3)
+* [**v1.2**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
 * [**v1.1**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
 * [**v1.0**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
 
 ## Przydatne linki:
-[**Sieć BatCave.pro**](https://batcave.pro)
 
 [**Mój profil Steam**](https://steamcommunity.com/id/kamehame_ha/)
 

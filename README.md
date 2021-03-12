@@ -10,19 +10,11 @@
 **Jeśli chcesz aby config wgrywał się po włączeniu gry wpisz do opcji uruchamiania: +exec autoexec**
 ## Opis konfiguracji - spis komend (ważniejszych)
 * **Ustawienia Myszy**
-* **Ustawienia Broni**
-* **Serwery Valve**
-* **Ustawienia Celownika** 
-* **Ustawienia Radaru**
-* **Ustawienia HUD-u**
-
-<details>
-  * **Ustawienia Myszy**
      * `sensitivity` - Czułość myszki
      * `zoom_sensitivity_ratio_mouse ` - Czułość myszki podczas celownia
      * `m_rawinpu` - Bezpośredni odczyt z myszki
      * `m_customaccel` - Akceleracja myszy
-  * **Ustawienia Dźwięku**
+* **Ustawienia Dźwięku**
      * `volume` - Ogólna głośność gry
      * `snd_mix_async ` - Usprawnia działanie komendy snd_mixahead
      * `snd_mixahead` - Ustala opóźnienie dźwięku
@@ -35,7 +27,7 @@
      * `snd_deathcamera_volume` - Głośność kamery po śmierci
      * `snd_dzmusic_volume` - Głośność muzyki w trybie Danger Zone
      * `snd_mute_losefocus` - Czy dźwięki z gry mają nie działać po zminimalizowaniu
-  * **Ustawienia Broni**
+* **Ustawienia Broni**
      * `cl_viewmodel_shift_left_amt` - Siła poruszania broni podczas kucania (w lewą stronę)
      * `cl_viewmodel_shift_right_amt` - Siła poruszania broni podczas kucania (w prawą stronę)
      * `viewmodel_fov` - Współczynnik FOV 
@@ -48,11 +40,11 @@
      * `cl_bobamt_lat` - Siła poruszania się broni w prawo/lewo kiedy biegniemy
      * `cl_bobamt_vert` - Siła poruszania się broni w góra/dół kiedy biegniemy
      * `cl_bobcycle` - Częstotliwość trzęsienia broni
-  * **Serwery Valve**
+* **Serwery Valve**
      * `mm_dedicated_search_maxping` - Maksymalny ping na MM podczas wyszukiwania meczu
      * `mm_csgo_community_search_players_min` - Ustala ile minimalnie ma być graczy na serwerze Valve podczas szukania serwera
      * `cl_color` - Preferowany kolor gracza na turniejowym
-  * **Ustawienia Celownika** 
+* **Ustawienia Celownika** 
      * `cl_crosshair_drawoutline` - Rysowanie obwódki celownika
      * `cl_crosshair_outlinethickness` - Wielkość obrysowania celownika
      * `cl_crosshair_t` - Celownik w kształcie litery T
@@ -69,14 +61,14 @@
      * `cl_crosshairusealpha` - Włącz/Wyłącz przezroczystość
      * `cl_crosshair_sniper_width` - Grubość celownika AWP
      * `cl_show_observer_crosshair` - Wyświetlanie celowników innych graczy
-  * **Ustawienia Radaru**
+* **Ustawienia Radaru**
      * `cl_hud_radar_scale` - Rozmiar radaru
      * `cl_radar_icon_scale_min` - Wielkość ikonek graczy na radarze
      * `cl_radar_always_centered` - Włącza/Wyłącza wyśrodkowanie radaru
      * `cl_radar_rotate` - Włącza/Wyłącza obracanie radaru razem z graczem
      * `cl_radar_scale` - Skala mapy na radarze
      * `cl_radar_square_with_scoreboard` - Włącza/Wyłącza kwadratowy radar w tabeli wyników
-  * **Ustawienia HUD-u**
+* **Ustawienia HUD-u**
      * `net_graph` - Włącza/Wyłącza NetGraph (informacje i ping-u i fps)
      * `net_graphproportionalfont` - Wielkość czcionki NetGraphu
      * `net_graphheight` - Pozycja NetGraphu
@@ -88,11 +80,6 @@
      * `con_filter_enable` - Pozwala na działanie parametrów
      * `con_filter_text_out` - Wyświetla nazwę gracza w informacji
      * `con_filter_text` - Wyświetla punkty obrażeń w informacji
-
-
-
-<\details>
-
 ## Bindy
 **Bind** | **Klawisz**
 ------------ | -------------

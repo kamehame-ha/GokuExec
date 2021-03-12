@@ -1,4 +1,4 @@
-# GokuExec
+![Goku Exec](https://i.imgur.com/MsyxNNp.png)
 ## Instalacja
 1. Pobierz plik **autoexec.cfg**
 1. Otwórz swoją lokalizację cs:go

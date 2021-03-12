@@ -6,6 +6,7 @@
 1. Wrzuć tam plik
 1. W grze wpisz **exec autoexec.cfg**
 1. GOTOWE!
+**Jeśli chcesz aby config wgrywał się po włączeniu gry wpisz do pocji uruchamiania: +exec autoexec**
 ## Opis konfiguracji
 **Konfiguracja zawiera wiele przydatnych komend podzielonych na kategorie:**
 * Ustawienia Myszy

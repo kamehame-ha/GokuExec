@@ -80,10 +80,21 @@
    * `con_filter_enable` - Pozwala na działanie parametrów
    * `con_filter_text_out` - Wyświetla nazwę gracza w informacji
    * `con_filter_text` - Wyświetla punkty obrażeń w informacji            
+## Bindy
+**Bind** | **Klawisz**
+------------ | -------------
+JumpThrow | Alt
+Double Q | Q
+High Jump | X
+Podgłaśnianie gry (kucanie chodzenie) | Shift oraz Ctrl
+Celownik do granatów | Z
+Szybki Flash | Mouse 5
+Zmiana ręki | CapsLock
+Pokazanie bindów w konsoli* | F11
+`¯\_(ツ)_/¯` | Strzałka w dół
+`By have a good time` | Strzałka w lewo
 
 
-**Każda użyta komenda posiada krótki opis działania, 
-dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Pobierz
 **Najnowsza wersja** | **Link**
 ------------ | -------------

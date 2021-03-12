@@ -23,7 +23,7 @@
 **Każda użyta komenda posiada krótki opis działania, 
 dzięki czemu nawet komleptny nowicjusz z radością stworzy swój config.**
 ## Pobierz
-**Najnowsza wersja:** [**v1.2**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
+**Najnowsza wersja:** [**v1.4**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.4)
 
 **Poprzednie wersje:**
 * [**v1.3**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3)

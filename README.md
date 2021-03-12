@@ -93,6 +93,12 @@ Zmiana ręki | CapsLock
 Pokazanie bindów w konsoli* | F11
 `¯\_(ツ)_/¯` | Strzałka w dół
 `By have a good time` | Strzałka w lewo
+## Szybkie kupowanie
+**Snajperki** | **Klawisz** | **Karabiny** | **Klawisz** | **Pistolety** | **Klawisz**
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+AWP | Numpad 7 | AK-47/M4A4/M4a1-s | Numpad 8 | Desert Eagle/R8 | Numpad 9
+SSG 08 | Numpad 4 | Aug/SG 553 | Numpad 5 | P250 | Numpad 6
+SCAR/G3SG1 | Numpad 1 | Galil/Famas | Numpad 2 | Tec-9/FiveSeven | Numpad 3
 
 
 ## Pobierz

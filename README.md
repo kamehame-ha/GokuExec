@@ -106,14 +106,6 @@ SCAR/G3SG1 | Numpad 1 | Galil/Famas | Numpad 2 | Tec-9/FiveSeven | Numpad 3
 ------------ | -------------
 Wersja **v1.6** | [**Pobierz**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.6)
 
-**Poprzednie wersje** | **Link**                                                     
------------- | -------------                                                         
-Wersja v1.5 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.5)   
-Wersja v1.4 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.4)   
-Wersja v1.3 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3)   
-Wersja v1.2 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)   
-Wersja v1.1 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)   
-Wersja v1.0 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)   
 
 ### Poprzednie wersje
 

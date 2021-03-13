@@ -104,16 +104,22 @@ SCAR/G3SG1 | Numpad 1 | Galil/Famas | Numpad 2 | Tec-9/FiveSeven | Numpad 3
 ## Pobierz
 **Najnowsza wersja** | **Link**
 ------------ | -------------
-Wersja v1.5 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.5)
+Wersja **v1.6** | [**Pobierz**](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.6)
 
-**Poprzednie wersje** | **Link**
------------- | -------------
-Wersja v1.4 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.4)
-Wersja v1.3 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3)
-Wersja v1.2 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)
-Wersja v1.1 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)
-Wersja v1.0 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)
+**Poprzednie wersje** | **Link**                                                     
+------------ | -------------                                                         
+Wersja v1.5 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.5)   
+Wersja v1.4 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.4)   
+Wersja v1.3 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3)   
+Wersja v1.2 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2)   
+Wersja v1.1 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1)   
+Wersja v1.0 | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0)   
 
+### Poprzednie wersje
+
+**Wersja:** | **v1.0** | **v1.1** | **v1.2** | **v1.3** | **v1.4** | **v1.5**
+------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- 
+**Link:** | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.0) | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.1) | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.2) | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.3) | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.4) | [Pobierz](https://github.com/kamehame-ha/GokuExec/releases/tag/v1.5)  
 ## Przydatne linki:
 
 [**Mój profil Steam**](https://steamcommunity.com/id/kamehame_ha/)
